@@ -7,5 +7,5 @@
 ---
 
 <p align="center">
-  <a href="https://discord.gg/HjEDMuXZ6T"><img src="https://discordapp.com/api/guilds/784711397451366420"></a>
+  <a href="https://discord.gg/HjEDMuXZ6T"><img src="https://media.discordapp.net/attachments/812328619539955764/814579986508939364/unknown.png"></a>
 </p>
