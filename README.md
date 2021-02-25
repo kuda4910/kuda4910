@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://media.discordapp.net/attachments/749659565217546283/814572653184286726/on_Instagram___ill_do_momobami_twins_too_anime____kakeguruicharacter____yumekojabami__CEPagiSp6Lj_2J.jpg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <h2 align="center">GitHub 𝓚𝓾𝓭𝓪#4910</h2>
+ <p align="center"></p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
