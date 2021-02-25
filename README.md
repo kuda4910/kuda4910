@@ -1,5 +1,5 @@
 <p align="center">
-  <a>***𝓚𝓾𝓭𝓪#4910***</a>
+  <a>**𝓚𝓾𝓭𝓪#4910**</a>
 <p align="center">  
   <a href=""><img src="https://img.shields.io/github/sponsors/kuda4910"></a>
   <a href="https://github.com/kuda4910"><img src="https://img.shields.io/github/followers/kuda4910"></a>
